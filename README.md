@@ -1,4 +1,4 @@
-# MovieFinder
+# Using Android Architechture Components a sample is written (OMDB MovieFinder)
 Sample Application which loads movie data from OMDB and based on movie title search
 
 ## This has the following features
